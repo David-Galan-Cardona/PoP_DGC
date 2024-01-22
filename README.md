@@ -1,0 +1,1 @@
+He fet que es pugui introduïr la data per teclat, un check de "Valida" per a donar una resposta segons si retorna true o false, he tret validaciones innecessàries per a saber si és any de traspàs o no i he afegit el menu.
